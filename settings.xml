@@ -8,7 +8,7 @@
     </server>
     <server>
       <id>socgenappb3-releases</id>
-      <usernam>socgenb3user</username>
+      <username>socgenb3user</username>
       <password>socgenb3user</password>
     </server>
   </servers>
